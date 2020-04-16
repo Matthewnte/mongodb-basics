@@ -1,0 +1,22 @@
+{
+  "name": "connect-to-db-task",
+  "version": "1.0.0",
+  "description": "![create database](./images/createDb.png) ![create collection](./images/createCollection.png)",
+  "main": "Matthewnte.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthewnte/mongodb-basics.git"
+  },
+  "author": "Matthew Nte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Matthewnte/mongodb-basics/issues"
+  },
+  "homepage": "https://github.com/Matthewnte/mongodb-basics#readme",
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  }
+}
